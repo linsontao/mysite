@@ -9,3 +9,4 @@ venv.bak/
 .idea/
 *.pyc
 *.log
+mytest
